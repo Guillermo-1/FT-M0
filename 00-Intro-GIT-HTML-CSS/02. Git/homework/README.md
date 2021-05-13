@@ -68,7 +68,7 @@ Entra a github.com y logueate con tu usuario. Luego en la parte de arriba a la d
 
 ![alt](../img/repo-create.png)
 
-En la nueva pantalla, vas a tener que seleccionar el nombre de tu nuevo repo. Crea un repo que se llame: `henry`. Podes agregarle una descripción también, pero no es obligatoria.
+En la nueva pantalla, vas a tener que seleccionar el nombre de tu nuevo repo. Crea un repo que se llame: . Podes agregarle una descripción también, pero no es obligatoria.
 
 ![alt](../img/create-repository-name.png)
 
@@ -80,7 +80,7 @@ Listo ya tenes tu propio repo. Ahora vas a poder clonarlo con las intrucciones d
 
 ### Clonar
 
-Para poder trabajar en un proyecto debes clonarlo (descargarlo) a tu máquina local. Para ello, accede al repositorio que creaste en tu cuenta, y haz click en el botón de la esquina superior derecha que dice "Clonar o descargar". Un dropdown aparecerá y podemos clickear en el icono del clipboard para copiar la dirección del repo. O, si el repo esta vacio vas a ver en el medio de la pantalla la URL con la dirección de tu repositorio.
+Para poder trabajar en un proyecto debes clonarlo (descargarlo) a tu máquina local. cd Un dropdown aparecerá y podemos clickear en el icono del clipboard para copiar la dirección del repo. O, si el repo esta vacio vas a ver en el medio de la pantalla la URL con la dirección de tu repositorio.
 
 Una vez tengas la dirección copiada, vuelve a tu terminal y escribe lo siguiente:
 
@@ -101,10 +101,7 @@ En este ejercicio, añadiremos un archivo a nuestro proyecto y crearemos un comm
 
 A continuación, escribe lo siguiente en tu terminal:
 
-```bash
-  $ cd henry
-  $ touch archivo-ejemplo.js
-```
+
 
 Esto añadirá un nuevo archivo llamado "archivo-ejemplo.js" a tu proyecto.
 
